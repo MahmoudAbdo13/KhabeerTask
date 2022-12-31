@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Khabeer Task</string>
+    <string name="login_btn">تسجيل الدخول</string>
+    <string name="password">كلمة المرور</string>
+    <string name="phone">رقم الهاتف المحمول</string>
+    <string name="login_title">قم بتسجيل الدخول</string>
+    <string name="value">القيمة</string>
+    <string name="name">البند</string>
+    <string name="number">م</string>
+    <string name="employee_salary">راتب الموظف</string>
+    <string name="desc">استقطاعات اخري</string>
+    <string name="total">إجمالي الراتب : "</string>
+    <string name="totalSalary">إجمالي الراتب</string>
+    <string name="wait">يرجى الإنتظار</string>
+    <string name="login">جاري تسجيل الدخول</string>
+
+</resources>
